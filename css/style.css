@@ -3,6 +3,8 @@
     border:  0px;
 }
 
-body{
-    background-color: red;
+.menu-bar{
+    color: white;
+    -webkit-text-shadow: none;
+    text-shadow: none;
 }
